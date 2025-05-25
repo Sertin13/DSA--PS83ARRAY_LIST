@@ -7,3 +7,9 @@ class Instructor:
 
     def assign_section(self, section):
         self.assigned_sections.append(section)
+
+    def display_classes(self, course_college_map, course_sections_map, detail_level=0):
+        print(f"\nClasses for {self.full_name}:\n")
+        if not course_college_map or not course_sections_map:
+            print("Error: Course-to-college or sections-per-course data is missing.")
+            return    
