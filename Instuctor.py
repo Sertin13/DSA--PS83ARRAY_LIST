@@ -1,9 +1,9 @@
 class Instructor:
-    def __init__(self, name, username, password):
-        """
-        Initialize an Instructor with basic credentials and an empty list of assigned sections.
-        """
-        self.name = name
-        self.username = username
-        self.password = password
-        self.sections = []
+    def __init__(self, full_name, user_name, user_password):
+        self.full_name = full_name
+        self.user_name = user_name
+        self.user_password = user_password
+        self.assigned_sections = []
+
+    def assign_section(self, section):
+        self.assigned_sections.append(section)
