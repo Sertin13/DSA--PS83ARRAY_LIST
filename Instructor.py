@@ -29,7 +29,7 @@ class Instructor:
                     for student in section.students:
                         print(f"    - {student.name:<25} ({student.student_id})")
                         if detail_level >= 1:
-                            for subject in student.subject_list:
+                            for subject in student.subjects:
                                 print(f"       * {subject.code:<8} {subject.name:<25} ({subject.units} units, {subject.schedule})")
             if not any_students_in_college:
                 print("  No students enrolled in any sections in this college.")
