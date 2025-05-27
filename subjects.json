@@ -1,0 +1,72 @@
+{
+    "College of Information Sciences and Computing": [
+        {"code": "CS101", "name": "Intro to CS", "units": 3, "schedule": "MWF 7-8am"},
+        {"code": "IT201", "name": "Data Structures", "units": 3, "schedule": "TTh 1-2:30pm"},
+        {"code": "CS102", "name": "Computer Programming", "units": 3, "schedule": "TTh 3-4:30pm"},
+        {"code": "IT202", "name": "Database Systems", "units": 3, "schedule": "MWF 7-8am"},
+        {"code": "CS201", "name": "Advanced Programming", "units": 4, "schedule": "MWF 10-11am"},
+        {"code": "IT301", "name": "Cybersecurity", "units": 3, "schedule": "TTh 1-2:30pm"},
+        {"code": "CS202", "name": "Database Design", "units": 3, "schedule": "MWF 2-3pm"},
+        {"code": "IT302", "name": "Network Administration", "units": 4, "schedule": "TTh 3-4:30pm"}
+    ],
+    "College of Nursing": [
+        {"code": "NURS101", "name": "Fundamentals of Nursing", "units": 3, "schedule": "MWF 8-9am"},
+        {"code": "NURS102", "name": "Clinical Nursing", "units": 3, "schedule": "TTh 7-8:30am"},
+        {"code": "NURS201", "name": "Pediatric Nursing", "units": 3, "schedule": "MWF 7-8am"},
+        {"code": "NURS202", "name": "Geriatric Nursing", "units": 3, "schedule": "TTh 8-9:30am"}
+    ],
+    "College of Engineering": [
+        {"code": "MATH101", "name": "Calculus I", "units": 4, "schedule": "TTh 10-12pm"},
+        {"code": "PHYS101", "name": "General Physics", "units": 4, "schedule": "MWF 1-2pm"},
+        {"code": "MATH102", "name": "Calculus II", "units": 4, "schedule": "MWF 10-11am"},
+        {"code": "PHYS102", "name": "Electromagnetism", "units": 4, "schedule": "TTh 1-2:30pm"},
+        {"code": "ENG201", "name": "Fluid Mechanics", "units": 4, "schedule": "MWF 10-11am"},
+        {"code": "MECH201", "name": "Thermodynamics", "units": 4, "schedule": "TTh 1-2:30pm"},
+        {"code": "ENG202", "name": "Materials Science", "units": 3, "schedule": "MWF 2-3pm"},
+        {"code": "ELEC201", "name": "Circuit Analysis", "units": 4, "schedule": "TTh 3-4:30pm"}
+    ],
+    "College of Agriculture": [
+        {"code": "AGRI101", "name": "Intro to Agriculture", "units": 3, "schedule": "TTh 3-4:30pm"},
+        {"code": "AGRI102", "name": "Crop Science", "units": 3, "schedule": "MWF 2-3pm"},
+        {"code": "AGRI201", "name": "Soil Science", "units": 3, "schedule": "MWF 8-9am"},
+        {"code": "AGRI202", "name": "Sustainable Farming", "units": 3, "schedule": "TTh 8-9:30am"}
+    ],
+    "College of Arts and Science": [
+        {"code": "ENG101", "name": "English I", "units": 3, "schedule": "MWF 9-10am"},
+        {"code": "HIST101", "name": "World History", "units": 3, "schedule": "TTh 1-2:30pm"},
+        {"code": "ENG102", "name": "English II", "units": 3, "schedule": "TTh 2-3:30pm"},
+        {"code": "HIST102", "name": "Modern History", "units": 3, "schedule": "MWF 11-12pm"},
+        {"code": "LIT201", "name": "American Literature", "units": 3, "schedule": "MWF 10-11am"},
+        {"code": "HIST201", "name": "Ancient History", "units": 3, "schedule": "TTh 1-2:30pm"},
+        {"code": "PHIL201", "name": "Ethics", "units": 3, "schedule": "MWF 2-3pm"},
+        {"code": "ART201", "name": "Art History", "units": 3, "schedule": "TTh 3-4:30pm"}
+    ],
+    "College of Business and Management": [
+        {"code": "BUS101", "name": "Principles of Management", "units": 3, "schedule": "MWF 2-3pm"},
+        {"code": "ECO101", "name": "Economics", "units": 3, "schedule": "TTh 9-10:30am"},
+        {"code": "BUS102", "name": "Business Ethics", "units": 3, "schedule": "TTh 3-4:30pm"},
+        {"code": "ECO102", "name": "Microeconomics", "units": 3, "schedule": "MWF 10-11am"},
+        {"code": "FIN201", "name": "Corporate Finance", "units": 3, "schedule": "MWF 8-9am"},
+        {"code": "MKT201", "name": "Marketing Management", "units": 3, "schedule": "TTh 8-9:30am"},
+        {"code": "ACCT201", "name": "Financial Accounting", "units": 3, "schedule": "MWF 10-11am"},
+        {"code": "MGMT202", "name": "Organizational Behavior", "units": 3, "schedule": "TTh 10-11:30am"}
+    ],
+    "College of Human Ecology": [
+        {"code": "HE201", "name": "Community Health", "units": 3, "schedule": "MWF 1-2pm"},
+        {"code": "HE202", "name": "Nutrition", "units": 3, "schedule": "TTh 1-2:30pm"},
+        {"code": "HE101", "name": "Human Ecology", "units": 3, "schedule": "MWF 3-4pm"},
+        {"code": "HE102", "name": "Environmental Science", "units": 3, "schedule": "TTh 2-3:30pm"}
+    ],
+    "College of Education": [
+        {"code": "EDUC101", "name": "Educational Psychology", "units": 3, "schedule": "MWF 10-11am"},
+        {"code": "EDUC102", "name": "Curriculum Development", "units": 3, "schedule": "TTh 1-2:30pm"}
+    ],
+    "College of Law": [
+        {"code": "LAW101", "name": "Constitutional Law", "units": 4, "schedule": "MWF 1-2pm"},
+        {"code": "LAW102", "name": "Contracts", "units": 4, "schedule": "TTh 2-3:30pm"}
+    ],
+    "College of Medicine": [
+        {"code": "MED101", "name": "Human Anatomy", "units": 4, "schedule": "MWF 8-9am"},
+        {"code": "MED102", "name": "Physiology", "units": 4, "schedule": "TTh 8-9:30am"}
+    ]
+}
