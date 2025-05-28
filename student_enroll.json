@@ -1,0 +1,129 @@
+[
+  {
+    "student_id": "2023001",
+    "name": "Alice Smith",
+    "college_course": "BS Information Technology",
+    "college": "College of Information Sciences and Computing",
+    "academic_year": "1st Year",
+    "class_section": "A",
+    "subjects": [
+      "CS101",
+      "IT201",
+      "CS102"
+    ]
+  },
+  {
+    "student_id": "2023002",
+    "name": "Bob Hernandez",
+    "college_course": "BS Nursing",
+    "college": "College of Nursing",
+    "academic_year": "2nd Year",
+    "class_section": "B",
+    "subjects": []
+  },
+  {
+    "student_id": "1234",
+    "name": "sertinjay",
+    "college_course": "BS Information Technology",
+    "college": "College of Information Sciences and Computing",
+    "academic_year": "1",
+    "class_section": "A",
+    "subjects": [
+      "CS101",
+      "IT201",
+      "CS102"
+    ]
+  },
+  {
+    "student_id": "0987654321",
+    "name": "achilles",
+    "college_course": "BS Law ",
+    "college": "College of Law",
+    "academic_year": "4",
+    "class_section": "A",
+    "subjects": [
+      "LAW101",
+      "LAW102",
+      "LAW103"
+    ]
+  },
+  {
+    "student_id": "0987654321",
+    "name": "rolly",
+    "college_course": "BS Information Technology",
+    "college": "College of Information Sciences and Computing",
+    "academic_year": "4",
+    "class_section": "A",
+    "subjects": [
+      "CS101",
+      "IT201",
+      "CS102",
+      "IT202",
+      "CS201"
+    ]
+  },
+  {
+    "student_id": "2023301069",
+    "name": "Lester Kim T Gaya",
+    "college_course": "BS Information Technology",
+    "college": "College of Information Sciences and Computing",
+    "academic_year": "2024-2025",
+    "class_section": "A",
+    "subjects": [
+      "CS101",
+      "IT201",
+      "CS102",
+      "IT202",
+      "CS201",
+      "IT301"
+    ]
+  },
+  {
+    "student_id": "123",
+    "name": "ALjen",
+    "college_course": "BS Information Technology",
+    "college": "College of Information Sciences and Computing",
+    "academic_year": "1",
+    "class_section": "A",
+    "subjects": [
+      "CS101",
+      "IT201",
+      "CS102",
+      "IT202",
+      "CS201"
+    ]
+  },
+  {
+    "student_id": "2023300013",
+    "name": "Yrea",
+    "college_course": "BS Information Technology",
+    "college": "College of Information Sciences and Computing",
+    "academic_year": "2nd Year",
+    "class_section": "C",
+    "subjects": [
+      "CS101",
+      "IT201",
+      "CS102",
+      "IT202",
+      "CS201"
+    ]
+  },
+  {
+    "student_id": "1234",
+    "name": "mark",
+    "college_course": "BS Information Technology",
+    "college": "College of Information Sciences and Computing",
+    "academic_year": "1st",
+    "class_section": "A",
+    "subjects": [
+      "CS101",
+      "IT201",
+      "CS102",
+      "IT202",
+      "CS201",
+      "IT301",
+      "CS202",
+      "IT302"
+    ]
+  }
+]
